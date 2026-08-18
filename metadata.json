@@ -1,0 +1,6 @@
+{
+  "name": "HealthMate AI",
+  "description": "Smart Medicine Manager with AI Vision package scanning, medication reminders, health adherence tracking, and AI health assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

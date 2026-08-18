@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White Shield Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C68,20 80,24 80,24 C80,48 76,68 54,88 C32,68 28,48 28,24 C28,24 40,20 54,20 Z" />
+    <!-- Blue Medical Cross & Heart Accent inside -->
+    <path
+        android:fillColor="#FF0052D4"
+        android:pathData="M50,38 H58 V48 H68 V56 H58 V66 H50 V56 H40 V48 H50 Z" />
+</vector>
