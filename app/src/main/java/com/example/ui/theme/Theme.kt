@@ -11,9 +11,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 
 private val LightColorScheme = lightColorScheme(
-    primary = PolishBluePrimary,
+    primary = Ios.Blue,
     onPrimary = PolishBlueOnPrimary,
-    primaryContainer = PolishBlueContainer,
+    primaryContainer = Ios.BlueTint,
     onPrimaryContainer = PolishBlueOnContainer,
     secondary = PolishBlueDark,
     onSecondary = PolishBlueOnPrimary,
@@ -22,8 +22,8 @@ private val LightColorScheme = lightColorScheme(
     tertiary = SafetyAmberTertiary,
     tertiaryContainer = SafetyAmberContainer,
     onTertiaryContainer = SafetyAmberOnContainer,
-    background = PolishBackground,
-    onBackground = PolishSlate900,
+    background = Ios.Background,
+    onBackground = Ios.Label,
     surface = PolishSurface,
     onSurface = PolishSlate900,
     surfaceVariant = PolishSlate100,
